@@ -1,0 +1,130 @@
+{
+  "Muscle Gain": {
+    "Home": {
+      "Beginner": {
+        "Day 1 - Push": ["Knee Push-ups - 3x12", "Wall Push-ups - 3x15", "Incline Push-ups - 3x12", "Shoulder Taps - 3x15", "Tricep Dips (chair) - 3x8"],
+        "Day 2 - Pull": ["Resistance Band Rows - 3x12", "Reverse Rows (table) - 3x8", "Supermans - 3x12", "Bicep Curls (band) - 3x10", "Band Pull-aparts - 3x12"],
+        "Day 3 - Legs": ["Bodyweight Squats - 3x12", "Lunges - 3x8 per leg", "Glute Bridges - 3x12", "Step-ups (chair) - 3x10 per leg", "Calf Raises - 3x15"],
+        "Day 4 - Push": ["Incline Push-ups - 3x12", "Wall Push-ups - 3x15", "Shoulder Taps - 3x15", "Knee Push-ups - 3x10", "Tricep Dips (chair) - 3x8"],
+        "Day 5 - Pull": ["Resistance Band Rows - 3x12", "Reverse Rows (table) - 3x8", "Supermans - 3x12", "Bicep Curls (band) - 3x10", "Band Pull-aparts - 3x12"],
+        "Day 6 - Rest": ["Rest Day"],
+        "Day 7 - Rest": ["Rest Day"]
+      },
+      "Advanced": {
+        "Day 1 - Push": ["Push-ups - 4x20", "Pike Push-ups - 4x12", "Dips (chair) - 4x12", "Incline Push-ups - 4x12", "Diamond Push-ups - 3x15"],
+        "Day 2 - Pull": ["Pull-ups (bar) - 4x10", "Inverted Rows (table) - 4x12", "Bicep Curls (band) - 4x15", "Resistance Band Rows - 4x12", "Reverse Flys (band) - 3x15"],
+        "Day 3 - Legs": ["Jump Squats - 4x15", "Bulgarian Split Squats - 3x10 per leg", "Glute Bridges - 4x15", "Step-ups (weighted) - 3x12 per leg", "Calf Raises - 4x25"],
+        "Day 4 - Push": ["Handstand Hold - 3x30s", "Pike Push-ups - 4x12", "Dips (chair) - 4x12", "Incline Push-ups - 4x15", "Diamond Push-ups - 3x15"],
+        "Day 5 - Pull": ["Chin-ups - 4x8", "Resistance Band Rows - 4x12", "Bicep Curls (band) - 4x15", "Inverted Rows - 4x12", "Reverse Flys - 3x15"],
+        "Day 6 - Rest": ["Rest Day"],
+        "Day 7 - Rest": ["Rest Day"]
+      }
+    },
+    "Gym": {
+      "Beginner": {
+        "Day 1 - Push": ["Bench Press - 3x10", "Machine Chest Press - 3x12", "Dumbbell Shoulder Press - 3x10", "Lateral Raises - 3x12", "Tricep Pushdowns - 3x10"],
+        "Day 2 - Pull": ["Lat Pulldown - 3x12", "Seated Cable Row - 3x12", "Face Pulls - 3x12", "Dumbbell Curls - 3x10", "Machine Row - 3x12"],
+        "Day 3 - Legs": ["Leg Press - 3x12", "Goblet Squat - 3x12", "Leg Curl Machine - 3x12", "Calf Raises - 3x20", "Glute Bridges - 3x12"],
+        "Day 4 - Push": ["Incline Dumbbell Press - 3x12", "Dumbbell Shoulder Press - 3x10", "Chest Flys - 3x12", "Lateral Raises - 3x12", "Tricep Kickbacks - 3x10"],
+        "Day 5 - Pull": ["Barbell Rows - 3x10", "Lat Pulldown - 3x12", "Face Pulls - 3x12", "Hammer Curls - 3x10", "Seated Cable Rows - 3x12"],
+        "Day 6 - Rest": ["Rest Day"],
+        "Day 7 - Rest": ["Rest Day"]
+      },
+      "Advanced": {
+        "Day 1 - Push": ["Bench Press - 4x8", "Incline Dumbbell Press - 4x10", "Overhead Press - 4x10", "Dumbbell Lateral Raises - 4x12", "Tricep Pushdowns - 4x12"],
+        "Day 2 - Pull": ["Deadlift - 4x6", "Barbell Rows - 4x8", "Weighted Pull-ups - 4x6", "Face Pulls - 4x12", "Bicep Curls - 4x12"],
+        "Day 3 - Legs": ["Back Squats - 4x8", "Leg Press - 4x12", "Romanian Deadlift - 4x8", "Bulgarian Split Squats - 3x10 per leg", "Calf Raises - 5x20"],
+        "Day 4 - Push": ["Incline Bench Press - 4x8", "Dumbbell Shoulder Press - 4x10", "Chest Flys - 4x12", "Arnold Press - 4x10", "Overhead Tricep Extension - 4x12"],
+        "Day 5 - Pull": ["T-Bar Row - 4x8", "Seated Cable Row - 4x12", "Pull-ups - 4x8", "Face Pulls - 4x12", "Hammer Curls - 4x12"],
+        "Day 6 - Rest": ["Rest Day"],
+        "Day 7 - Rest": ["Rest Day"]
+      }
+    }
+  },
+  "Maintenance": {
+    "Home": {
+      "Beginner": {
+        "Day 1 - Push": ["Wall Push-ups - 3x15", "Incline Push-ups - 3x12", "Shoulder Taps - 3x15", "Knee Push-ups - 3x12", "Tricep Dips (chair) - 3x8"],
+        "Day 2 - Pull": ["Resistance Band Rows - 3x12", "Reverse Rows (table) - 3x8", "Supermans - 3x12", "Bicep Curls (band) - 3x10", "Band Pull-aparts - 3x12"],
+        "Day 3 - Legs": ["Bodyweight Squats - 3x12", "Step-ups (chair) - 3x10 per leg", "Glute Bridges - 3x12", "Side Lunges - 3x10 per leg", "Calf Raises - 3x15"],
+        "Day 4 - Push": ["Incline Push-ups - 3x12", "Wall Push-ups - 3x15", "Shoulder Taps - 3x15", "Knee Push-ups - 3x12", "Tricep Dips (chair) - 3x8"],
+        "Day 5 - Pull": ["Resistance Band Rows - 3x12", "Reverse Rows (table) - 3x8", "Supermans - 3x12", "Bicep Curls (band) - 3x10", "Band Pull-aparts - 3x12"],
+        "Day 6 - Rest": ["Rest Day"],
+        "Day 7 - Rest": ["Rest Day"]
+      },
+      "Advanced": {
+        "Day 1 - Push": ["Push-ups - 4x15", "Pike Push-ups - 3x12", "Dips (chair) - 3x12", "Incline Push-ups - 3x12", "Diamond Push-ups - 3x12"],
+        "Day 2 - Pull": ["Pull-ups (bar) - 3x8", "Inverted Rows (table) - 3x10", "Bicep Curls (band) - 3x15", "Resistance Band Rows - 3x12", "Reverse Flys (band) - 3x12"],
+        "Day 3 - Legs": ["Squats - 4x15", "Lunges - 3x12 per leg", "Glute Bridges - 4x15", "Step-ups (chair) - 3x12 per leg", "Calf Raises - 4x20"],
+        "Day 4 - Push": ["Incline Push-ups - 4x12", "Handstand Hold - 3x30s", "Dips (chair) - 3x12", "Pike Push-ups - 3x12", "Diamond Push-ups - 3x12"],
+        "Day 5 - Pull": ["Chin-ups - 3x8", "Resistance Band Rows - 3x12", "Bicep Curls (band) - 3x15", "Inverted Rows - 3x10", "Reverse Flys (band) - 3x12"],
+        "Day 6 - Rest": ["Rest Day"],
+        "Day 7 - Rest": ["Rest Day"]
+      }
+    },
+    "Gym": {
+      "Beginner": {
+        "Day 1 - Push": ["Bench Press - 3x10", "Machine Chest Press - 3x12", "Dumbbell Shoulder Press - 3x10", "Lateral Raises - 3x12", "Tricep Pushdowns - 3x10"],
+        "Day 2 - Pull": ["Lat Pulldown - 3x12", "Seated Cable Row - 3x12", "Face Pulls - 3x12", "Dumbbell Curls - 3x10", "Machine Row - 3x12"],
+        "Day 3 - Legs": ["Leg Press - 3x12", "Goblet Squat - 3x12", "Leg Curl Machine - 3x12", "Calf Raises - 3x20", "Glute Bridges - 3x12"],
+        "Day 4 - Push": ["Incline Dumbbell Press - 3x12", "Dumbbell Shoulder Press - 3x10", "Chest Flys - 3x12", "Lateral Raises - 3x12", "Tricep Kickbacks - 3x10"],
+        "Day 5 - Pull": ["Barbell Rows - 3x10", "Lat Pulldown - 3x12", "Face Pulls - 3x12", "Hammer Curls - 3x10", "Seated Cable Rows - 3x12"],
+        "Day 6 - Rest": ["Rest Day"],
+        "Day 7 - Rest": ["Rest Day"]
+      },
+      "Advanced": {
+        "Day 1 - Push": ["Bench Press - 4x8", "Incline Dumbbell Press - 4x10", "Overhead Press - 4x10", "Dumbbell Lateral Raises - 4x12", "Tricep Pushdowns - 4x12"],
+        "Day 2 - Pull": ["Deadlift - 4x6", "Barbell Rows - 4x8", "Weighted Pull-ups - 4x6", "Face Pulls - 4x12", "Bicep Curls - 4x12"],
+        "Day 3 - Legs": ["Back Squats - 4x8", "Leg Press - 4x12", "Romanian Deadlift - 4x8", "Bulgarian Split Squats - 3x10 per leg", "Calf Raises - 5x20"],
+        "Day 4 - Push": ["Incline Bench Press - 4x8", "Dumbbell Shoulder Press - 4x10", "Chest Flys - 4x12", "Arnold Press - 4x10", "Overhead Tricep Extension - 4x12"],
+        "Day 5 - Pull": ["T-Bar Row - 4x8", "Seated Cable Row - 4x12", "Pull-ups - 4x8", "Face Pulls - 4x12", "Hammer Curls - 4x12"],
+        "Day 6 - Rest": ["Rest Day"],
+        "Day 7 - Rest": ["Rest Day"]
+      }
+    }
+  },
+"Weight Loss": {
+  "Home": {
+    "Beginner": {
+      "Day 1 - Cardio": ["Jumping Jacks - 3x30s", "High Knees - 3x30s", "Butt Kicks - 3x30s", "Mountain Climbers - 3x20"],
+      "Day 2 - Strength": ["Bodyweight Squats - 3x12", "Push-ups (knee) - 3x10", "Lunges - 3x8 per leg", "Glute Bridges - 3x12"],
+      "Day 3 - Yoga": ["Sun Salutations - 3 rounds", "Cat-Cow - 3x10", "Child's Pose - 2 min", "Downward Dog - 2 min"],
+      "Day 4 - Cardio": ["Jump Rope - 3x1 min", "Burpees - 3x8", "Side Skaters - 3x15 per side"],
+      "Day 5 - Strength": ["Step-ups (chair) - 3x10 per leg", "Wall Push-ups - 3x12", "Plank Hold - 3x30s"],
+      "Day 6 - Rest": ["Rest Day"],
+      "Day 7 - Rest": ["Rest Day"]
+    },
+    "Advanced": {
+      "Day 1 - HIIT": ["Burpees - 4x12", "Jump Squats - 4x15", "Mountain Climbers - 4x30s", "Jump Lunges - 3x12 per leg"],
+      "Day 2 - Strength": ["Push-ups - 4x15", "Pull-ups (bar) - 3x8", "Lunges (weighted) - 3x12 per leg", "Plank with Shoulder Tap - 3x20"],
+      "Day 3 - Yoga/Stretch": ["Power Yoga - 20 min", "Bridge Pose - 3x30s", "Boat Pose - 3x20s"],
+      "Day 4 - HIIT": ["Jump Rope - 4x1 min", "Burpees - 4x10", "Side Skaters - 4x15 per side", "Plank Jacks - 3x30s"],
+      "Day 5 - Strength": ["Pull-ups - 3x8", "Dips (chair) - 3x12", "Pistol Squats (assisted) - 3x8 per leg"],
+      "Day 6 - Rest": ["Rest Day"],
+      "Day 7 - Rest": ["Rest Day"]
+    }
+  },
+  "Gym": {
+    "Beginner": {
+      "Day 1 - Cardio": ["Treadmill Walk/Jog - 20 min", "Elliptical - 10 min"],
+      "Day 2 - Strength": ["Machine Chest Press - 3x12", "Leg Press - 3x12", "Lat Pulldown - 3x12"],
+      "Day 3 - Cardio": ["Stationary Bike - 20 min", "Rowing Machine - 10 min"],
+      "Day 4 - Strength": ["Dumbbell Shoulder Press - 3x12", "Cable Rows - 3x12", "Leg Curl Machine - 3x12"],
+      "Day 5 - Mix": ["Treadmill Intervals - 15 min", "Goblet Squat - 3x12", "Dumbbell Curls - 3x12"],
+      "Day 6 - Rest": ["Rest Day"],
+      "Day 7 - Rest": ["Rest Day"]
+    },
+    "Advanced": {
+      "Day 1 - HIIT Cardio": ["Treadmill Sprints - 8x30s", "Rowing Machine - 4x500m"],
+      "Day 2 - Strength": ["Bench Press - 4x10", "Deadlift - 4x8", "Pull-ups (weighted) - 4x8"],
+      "Day 3 - Cardio": ["Stair Climber - 20 min", "Battle Ropes - 5x30s"],
+      "Day 4 - Strength": ["Back Squat - 4x8", "Overhead Press - 4x10", "Barbell Rows - 4x8"],
+      "Day 5 - HIIT Mix": ["Burpees - 4x15", "Kettlebell Swings - 4x20", "Jump Squats - 4x12"],
+      "Day 6 - Rest": ["Rest Day"],
+      "Day 7 - Rest": ["Rest Day"]
+    }
+  }
+}
+
+
+}
